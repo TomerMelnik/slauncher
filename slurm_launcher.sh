@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Welcome screen message
 welcome_message="Welcome to the SLURM Interactive Job Launcher\n\n\
